@@ -4,8 +4,9 @@ button {
     background-color: black;
 }
 
-.ewww-david {
-    color: orange;
-    font-size: 25pt;
-    background-color: purple;
+.flooper{
+    color: purple;
+    background: salmon;
+    border-color: seagreen;
+    border-width: 20px;
 }
