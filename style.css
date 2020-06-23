@@ -3,3 +3,10 @@ button {
     font-size: large;
     background-color: black;
 }
+
+.flooper{
+    color: purple;
+    background: salmon;
+    border-color: seagreen;
+    border-width: 20px;
+}
